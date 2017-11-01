@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="../../sitemap.xsl" type="text/xsl" media="all"?>
+<site>
+<page file="index.html" text="Youwangholding" title="Youwangholding">
+<page file="default.html" text="Login" title="Account Login"/>
+<page file="default_001.html" text="account" title="Register Account"/>
+<page file="default_002.html" text="" title="Youwangholding"/>
+<page file="default_003.html" text="" title="Shopping Cart"/>
+<page file="default_004.html" text="Checkout →" title="Shopping Cart"/>
+<page file="default_005.html" text="About us" title="About Us"/>
+<page file="default_006.html" text="Doctors and Experts" title="Doctors and Experts"/>
+<page file="default_007.html" text="Products " title="Medicine"/>
+<page file="default_008.html" text="Single ingredient (294)" title="Single ingredient"/>
+<page file="default_009.html" text="Multiple ingredients (12)" title="Multiple ingredients"/>
+<page file="default_010.html" text=" Tranquilizer (11)" title="Tranquilizer"/>
+<page file="default_011.html" text="antanemic (7)" title="antanemic"/>
+<page file="default_012.html" text="antineoplastic (1)" title="antineoplastic"/>
+<page file="default_013.html" text="antiscolic (2)" title="antiscolic"/>
+<page file="default_014.html" text="apophlegmatisant (23)" title="apophlegmatisant"/>
+<page file="default_015.html" text="astringent medicinal (10)" title="astringent medicinal"/>
+<page file="default_016.html" text="remove dampness and promote urination (16)" title="remove dampness and promote urination"/>
+<page file="default_017.html" text="drugs for dispelling internal cold (6)" title="drugs for dispelling internal cold"/>
+<page file="default_018.html" text="drugs for regulating QI flow (17)" title="drugs for regulating QI flow"/>
+<page file="default_019.html" text="dispel wind and dampness (21)" title="dispel wind and dampness"/>
+<page file="default_020.html" text="Suppressing hyperactive liver for calming endogenous wind (12)" title="Suppressing hyperactive liver for calming endogenous wind"/>
+<page file="default_021.html" text="clearing heat and detoxicating (28)" title="clearing heat and detoxicating"/>
+<page file="default_022.html" text="relaxing bowel (3)" title="relaxing bowel"/>
+<page file="default_023.html" text="Hemostatics (10)" title="Hemostatics"/>
+<page file="default_024.html" text="Promoting blood circulation to Dissipate Stasis (20)" title="Promoting blood circulation to Dissipate Stasis"/>
+<page file="default_025.html" text="medicine for the treatment of cough and asthma (7)" title="medicine for the treatment of cough and asthma"/>
+<page file="default_026.html" text="heat-clearing and fire-purging (10)" title="heat-clearing and fire-purging"/>
+<page file="default_027.html" text="yang-tonifying prescription (10)" title="yang-tonifying prescription"/>
+<page file="default_028.html" text="Qi supplementing drugs (8)" title="Qi supplementing drugs"/>
+<page file="default_029.html" text="yin tonics (11)" title="yin tonics"/>
+<page file="default_030.html" text="clear interior heat (3)" title="clear interior heat"/>
+<page file="default_031.html" text="removing dampness by means of aromatics (6)" title="removing dampness by means of aromatics"/>
+<page file="default_032.html" text="heat-removing drug (5)" title="heat-removing drug"/>
+<page file="default_033.html" text="heat-clearing and damp-drying drug (3)" title="heat-clearing and damp-drying drug"/>
+<page file="default_034.html" text="others (3)" title="others"/>
+<page file="default_035.html" text="Health Solutions" title="Solutions"/>
+<page file="default_036.html" text="Healthy People" title="feedbacks"/>
+<page file="default_037.html" text="Partners " title="Professional Links"/>
+<page file="default_038.html" text="Other Partners" title="Other Partners"/>
+<page file="default_039.html" text="Activities" title="Activities"/>
+<page file="default_040.html" text="Contact us" title="Contact Us"/>
+<page file="default_041.html" text="" title="Contact Us"/>
+<page file="default_042.html" text="" title="Dang Gui (Radix Angelicae Sinensis)"/>
+<page file="default_043.html" text="" title="POLYGALA"/>
+<page file="default_044.html" text="" title="Japanese Ardisia Herb"/>
+<page file="default_045.html" text="Where is my order" title="Account Login"/>
+<page file="default_046.html" text="Site Map" title="Site Map"/>
+</page>
+</site>
